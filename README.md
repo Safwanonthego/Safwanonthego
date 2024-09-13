@@ -1,6 +1,7 @@
 <p align="center"><img src=""></p>
 
-# Hi, I'm Safwan Mahmud! 👋
+<h1 align="center">Hi, I'm <a href="http://github.com/Safwanonthego">Safwan Mahmud<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 
 <!--
 **Safwanonthego/Safwanonthego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
