@@ -1,22 +1,14 @@
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mdabusufian/MdAbuSufian/main/assets/header.png"></p>
 
 <h1 align="center">Hi, I'm <a href="http://github.com/Safwanonthego">Safwan Mahmud<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
-<!--
-**Safwanonthego/Safwanonthego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student, Designer, Developer and a Cybersecurity Enthusiast
+- 🔭  I'm currently Working on Cyber Security and Web Development!
+- 🌱  I'm currently learning C++, Bash.
+- 👯  I'm looking to collaborate with other Developers.
+- 🥅  2024 goals: To be an entry level Cyber Security and Front End Expert.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Connect with me:
 
