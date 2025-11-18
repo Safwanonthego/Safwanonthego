@@ -26,7 +26,7 @@ I am a Student, Designer, Developer and a Cybersecurity Enthusiast
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=c,c++,js,python,html,css)</br>
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,html,css)</br>
 ![Languages](https://skillicons.dev/icons?i=git,github,bash,powershell,docker)</br>
 ![Languages](https://skillicons.dev/icons?i=figma,obsidian)</br>
 
